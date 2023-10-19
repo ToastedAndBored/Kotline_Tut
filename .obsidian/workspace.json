@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7ee41b77fcbac3",
+        "id": "5ca2dd0d8eecd9cf",
         "type": "tabs",
         "children": [
           {
-            "id": "892314862f4e23bf",
+            "id": "f7642a3c8e6cd085",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "892314862f4e23bf",
+  "active": "f7642a3c8e6cd085",
   "lastOpenFiles": [
-    "Pasted image 20231013064208.png",
     "README.md",
+    "Pasted image 20231013064208.png",
     "play.kotlinlang.org.md"
   ]
 }
